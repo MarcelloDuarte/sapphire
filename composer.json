@@ -1,0 +1,24 @@
+{
+    "name": "silverstripe/sapphire",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "silverstripe/sapphire",
+                "version": "2.4.7",
+                "dist": {
+                    "url": "https://github.com/MarcelloDuarte/sapphire/zipball/master",
+                    "type": "zip"
+                },
+                "source": {
+                    "url": "git://github.com/MarcelloDuarte/sapphire.git",
+                    "type": "git",
+                    "reference": "v2.4.7"
+                }
+            }
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    }
+}
