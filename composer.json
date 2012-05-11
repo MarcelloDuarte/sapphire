@@ -2,6 +2,7 @@
     "name": "silverstripe/sapphire",
     "version": "2.4.7",
     "require": {
-        "php": ">=5.2.0"
+        "php": ">=5.2.0",
+        "vendorless-installer": "dev-master"
     }
 }
